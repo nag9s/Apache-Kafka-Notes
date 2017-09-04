@@ -1,0 +1,2 @@
+![](/assets/Partitioning Strategy.png)
+
