@@ -15,5 +15,5 @@
 * [Version Incompatibilities](version-incompatibilities.md)
 * [Use Cases](use-cases.md)
 * [Message Delivery Semantics](message-delivery-semantics.md)
-* API
+* [API](api.md)
 
