@@ -10,6 +10,7 @@
 * [Messages](messages.md)
 * [Partitions](partitions.md)
 * [Consumers](consumers.md)
+  * [Group Coordinator](consumers/group-coordinator.md)
 * [Zookeeper](zookeeper.md)
 * [HANDLING LARGE MESSAGES IN KAFKA](handling-large-messages-in-kafka.md)
 * [Version Incompatibilities](version-incompatibilities.md)
