@@ -18,4 +18,5 @@
 * [Use Cases](use-cases.md)
 * [Message Delivery Semantics](message-delivery-semantics.md)
 * [API](api.md)
+* [References](references.md)
 
