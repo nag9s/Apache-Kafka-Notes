@@ -11,9 +11,5 @@ Kafka is an
 
 data within Kafka is stored durably, in order, and can be read deterministically. In addition, the data can be distributed within the system to provide additional protections against failures, as well as significant opportunities for scaling performance.
 
-
-
-
-
-kafka\_2.11-0.9.0.1.tgz  - 2.11 specified Scala Version , 0.9.0.1 specifed kafka version
+**kafka\_2.11-0.9.0.1.tgz ** - 2.11 specified Scala Version , 0.9.0.1 specifed kafka version
 
